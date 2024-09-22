@@ -1,0 +1,14 @@
+com\candidateevaluationexercise\MyCSVSaver.class
+com\candidateevaluationexercise\MyXMLSaver.class
+com\candidateevaluationexercise\ParsingTool.class
+com\candidateevaluationexercise\MyJSONParser.class
+com\candidateevaluationexercise\App.class
+com\candidateevaluationexercise\FileSaver.class
+com\candidateevaluationexercise\DataBaseHelper.class
+com\candidateevaluationexercise\FileAccesibility.class
+com\candidateevaluationexercise\MyXMLParser.class
+com\candidateevaluationexercise\FileParserFactory.class
+com\candidateevaluationexercise\FileSaverFactory.class
+com\candidateevaluationexercise\MyJSONSaver.class
+com\candidateevaluationexercise\FileParser.class
+com\candidateevaluationexercise\MyCSVParser.class

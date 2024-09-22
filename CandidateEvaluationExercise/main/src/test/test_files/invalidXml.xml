@@ -1,0 +1,27 @@
+<library>
+    <book>
+        <title>XML Developer's Guide<title>
+        <author>John Doe</author>
+        <genre>Programming</genre>
+        <price>29.95</price>
+        <publish_date>2023-01-01</publish_date>
+        <description>A comprehensive guide to XML development.</description>
+    </book>
+    <book>
+        <title>Learning Java</title>
+        <author>Jane Smith</author>
+        <genre>Programming</genre>
+        <price>39.99</price>
+        <publish_date>2022-05-15</publish_date>
+        <description>An introduction to Java programming.</description>
+    </book>
+    <book>
+        <title>Web Development with HTML</title>
+        <author>Michael Johnson</author>
+        <genre>Web Development</genre>
+        <price>34.95</price>
+        <publish_date>2021-09-30</publish_date>
+        <description>A guide to building websites using HTML.</description>
+    </book>
+    <library> 
+</library>

@@ -1,0 +1,10 @@
+{
+    "name": "Alice",
+    "age": 25,
+    "email": "alice@example.com"
+    "address": {
+        "city": "Wonderland",
+        "zip": "12345",
+    },
+    "isActive": true,
+}

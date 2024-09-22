@@ -1,0 +1,11 @@
+com\candidateevaluationexercise\DataBaseHelperTest.class
+com\candidateevaluationexercise\MyXMLSaverTest.class
+com\candidateevaluationexercise\MyXMLParserTest.class
+com\candidateevaluationexercise\FilePraseAndFileParseFactoryTest.class
+com\candidateevaluationexercise\FileSaverAndFileSaverFactoryTest.class
+com\candidateevaluationexercise\MyJSONSaverTest.class
+com\candidateevaluationexercise\ParsingToolTest.class
+com\candidateevaluationexercise\MyJSONParserTest.class
+com\candidateevaluationexercise\MyCSVParserTest.class
+com\candidateevaluationexercise\MyCSVSaverTest.class
+com\candidateevaluationexercise\FileAccessibilityTest.class

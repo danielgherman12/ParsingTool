@@ -1,0 +1,21 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "position": "Software Developer",
+        "department": "IT"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "position": "Project Manager",
+        "department": "Operations"
+      }
+    ],
+    "company": {
+      "name": "Tech Solutions Inc.",
+      "location": "Toronto, ON",
+      "founded": 2010
+    }
+  }

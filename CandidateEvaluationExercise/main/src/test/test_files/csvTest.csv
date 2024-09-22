@@ -1,0 +1,6 @@
+"EmployeeID","FirstName","LastName","Position","Department","Salary","StartDate"
+"1001","John","Doe","Software Engineer","Engineering","70000","2023-01-15"
+"1002","Jane","Smith","Project Manager","Marketing","85000","2022-03-22"
+"1003","Bob","Johnson","Data Analyst","Data Science","72000","2021-07-10"
+"1004","Emily","Davis","UX Designer","Design","68000","2024-02-01"
+"1005","Michael","Wilson","HR Specialist","Human Resources","62000","2022-11-12"
